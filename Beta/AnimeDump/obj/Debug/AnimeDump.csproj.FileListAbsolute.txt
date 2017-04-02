@@ -1,0 +1,9 @@
+C:\Users\Toby\Desktop\Project\AnimeDump\AnimeDump\bin\Debug\AnimeDump.exe.config
+C:\Users\Toby\Desktop\Project\AnimeDump\AnimeDump\bin\Debug\AnimeDump.exe
+C:\Users\Toby\Desktop\Project\AnimeDump\AnimeDump\bin\Debug\AnimeDump.pdb
+C:\Users\Toby\Desktop\Project\AnimeDump\AnimeDump\obj\Debug\AnimeDump.csprojResolveAssemblyReference.cache
+C:\Users\Toby\Desktop\Project\AnimeDump\AnimeDump\obj\Debug\AnimeDump.Form1.resources
+C:\Users\Toby\Desktop\Project\AnimeDump\AnimeDump\obj\Debug\AnimeDump.Properties.Resources.resources
+C:\Users\Toby\Desktop\Project\AnimeDump\AnimeDump\obj\Debug\AnimeDump.csproj.GenerateResource.Cache
+C:\Users\Toby\Desktop\Project\AnimeDump\AnimeDump\obj\Debug\AnimeDump.exe
+C:\Users\Toby\Desktop\Project\AnimeDump\AnimeDump\obj\Debug\AnimeDump.pdb
