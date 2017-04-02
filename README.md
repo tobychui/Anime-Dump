@@ -10,3 +10,6 @@ After a year or two, you will found that your download folder is as messy as you
 
 And here come this tool. Just with a few clicks, your download folder is as clean as your folder for AVs.
 
+## Preview
+
+<img src="https://raw.githubusercontent.com/tobychui/Anime-Dump/master/Beta/2017-04-02_15-39-43.png">
