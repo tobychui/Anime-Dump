@@ -13,3 +13,12 @@ And here come this tool. Just with a few clicks, your download folder is as clea
 ## Preview
 
 <img src="https://raw.githubusercontent.com/tobychui/Anime-Dump/master/Beta/2017-04-02_15-39-43.png">
+
+## Instruction
+1. Select the anime episode(s) from the left most listbox
+2. Choose operation
+3. If Packup is choosen, enter the folder name you want to store those animes.
+4. Click confirm, then your anime is packed into a folder and you are ready to move them to another places for storge or upload.
+//
+3. If Delete pending is choosen, the anime will be moved to the right most listbox
+4. After finishing the tidy, remove the folder in your anime download folder named "DeleteThis"
